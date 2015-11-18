@@ -1,2 +1,2 @@
 # hello-world
-Just mine
+This readme is just mine
